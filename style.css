@@ -15,6 +15,6 @@ body{
   
 }
 
-.header p{ 
+.header p:hover{ 
     color: #7EC4CF;
 } 
