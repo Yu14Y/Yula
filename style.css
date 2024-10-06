@@ -21,6 +21,7 @@ body{
     font-family: monospace;
     color: #CCC5B9; 
     block-size: 15px;
+    text-decoration: none;
 
 }
 
@@ -35,4 +36,13 @@ body{
     block-size: 25px;
     color: #E6C0E9;
 }
+
+.header hr{
+    border:none;
+    height: 5px;
+    margin: 25px 0px;
+    background-color: black;
+}
+
+
 
