@@ -16,5 +16,6 @@ body{
 }
 
 .header p:hover{ 
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: #7EC4CF;
 } 
