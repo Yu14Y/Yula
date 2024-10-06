@@ -22,29 +22,24 @@ body{
 .header a, h1, a:visited, h1:visited{
     font-family: monospace;
     color: #CCC5B9; 
-    font-size: 15px;
+    font-size: 30px;
     text-decoration: none;
 
 }
 
 .header a:hover, h1:hover{ 
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 25px;
+    font-size: 35px;
     color: #7EC4CF;
 }
 
 .header a:active, h1:active{
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 25px;
+    font-size: 35px;
     color: #E6C0E9;
 }
 
-.header hr{
-    border:none;
-    height: 5px;
-    margin: 25px 0px;
-    background-color: black;
-}
+
 
 /* Header text inline */ 
 
@@ -53,11 +48,38 @@ body{
 }
 .header_Yu14{
     text-align: left;
-    Width: 25%;
+    Width: 60%;
 }
 
 .header_about{
     text-align: right;
-    width: 74%;
+    width: 9%;
     
+}
+
+.header_projects{
+    text-align: right;
+    width: 9%;
+}
+
+.header_contact{
+    text-align: center;
+    width: 9%;
+}
+
+.header_blog{
+    text-align: left;
+    width: 10%;
+    margin-right: 20px
+
+}
+
+/* END OF HEADER */ 
+
+
+hr{
+    border:none;
+    height: 5px;
+    margin: 25px 0px;
+    background-color: black;
 }
