@@ -4,7 +4,7 @@ body{
     padding: 10px
 }
 
-
+/* Header */
 
 .header{
     width: 100%;
@@ -15,7 +15,25 @@ body{
   
 }
 
-.header p:hover{ 
+.header h1:hover{ 
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    block-size: 15px;
     color: #7EC4CF;
 } 
+
+.header h1{ 
+    font-family: monospace;
+    color: #CCC5B9; 
+
+
+
+.header a{
+    color: #CCC5B9;
+
+}
+
+}.header a:hover{ 
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    block-size: 15px;
+    color: #7EC4CF;
+}
