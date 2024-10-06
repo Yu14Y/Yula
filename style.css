@@ -9,31 +9,33 @@ body{
 .header{
     width: 100%;
     margin: 0px;
-    padding: auto;
     padding-top: 20px;
-    max-width: auto;
+    text-align: center;
   
 }
 
-
+.header h1 {
+    display: inline-block;
+    margin: 0px;
+}
 
 .header a, h1, a:visited, h1:visited{
     font-family: monospace;
     color: #CCC5B9; 
-    block-size: 15px;
+    font-size: 15px;
     text-decoration: none;
 
 }
 
 .header a:hover, h1:hover{ 
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    block-size: 25px;
+    font-size: 25px;
     color: #7EC4CF;
 }
 
 .header a:active, h1:active{
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    block-size: 25px;
+    font-size: 25px;
     color: #E6C0E9;
 }
 
@@ -47,16 +49,15 @@ body{
 /* Header text inline */ 
 
 .header{
-
     display: inline-block;
 }
 .header_Yu14{
-    text-algin: left;
+    text-align: left;
     Width: 25%;
 }
 
 .header_about{
-    text-algin: right;
-    width: 75%;
+    text-align: right;
+    width: 74%;
     
 }
