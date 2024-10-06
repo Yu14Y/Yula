@@ -1,5 +1,5 @@
 body{ 
-    background-color: #343434;
+    background-color: #50497c;
     font-family: monospace;
     padding: 10px
 }
@@ -7,11 +7,14 @@ body{
 
 
 .header{
-    width: 99%;
-    background-color: #6C00A3 ;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 20px;
-    max-width: 90%;
+    width: 100%;
+    margin: 0px;
+    padding: auto;
+    padding-top: 20px;
+    max-width: auto;
   
 }
+
+.header p{ 
+    color: #474954;
+} 
