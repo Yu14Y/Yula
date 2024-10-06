@@ -17,14 +17,22 @@ body{
 
 
 
-.header a{
+.header a, h1, a:visited, h1:visited{
     font-family: monospace;
     color: #CCC5B9; 
+    block-size: 15px;
 
 }
 
-}.header a:hover{ 
+.header a:hover, h1:hover{ 
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    block-size: 15px;
+    block-size: 25px;
     color: #7EC4CF;
 }
+
+.header a:active, h1:active{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    block-size: 25px;
+    color: #E6C0E9;
+}
+
