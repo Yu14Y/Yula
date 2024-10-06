@@ -1,7 +1,12 @@
+body{ 
+    background-color: #343434;
+}
+
+
 
 .header{
     width: 99%;
-    background-color: burlywood;
+    background-color: #6C00A3 ;
     margin-left: auto;
     margin-right: auto;
     padding: 20px;
