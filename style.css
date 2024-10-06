@@ -44,5 +44,19 @@ body{
     background-color: black;
 }
 
+/* Header text inline */ 
 
+.header{
 
+    display: inline-block;
+}
+.header_Yu14{
+    text-algin: left;
+    Width: 25%;
+}
+
+.header_about{
+    text-algin: right;
+    width: 75%;
+    
+}
