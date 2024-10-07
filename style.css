@@ -100,6 +100,7 @@ body{
     margin: 0px;
     padding-top: 20px;
     text-align: center;
+    display: inline-block;
 }
 
 
@@ -111,3 +112,25 @@ body{
     background-color: black;
     border-radius: 10px;
 }
+
+.footer a, a:visited{
+    font-family: monospace;
+    color: #CCC5B9; 
+    font-size: 30px;
+    text-decoration: none;
+
+}
+
+.footer a:hover{ 
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 35px;
+    color: #7EC4CF;
+}
+
+.footer a:active{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 35px;
+    color: #E6C0E9;
+}
+
+
