@@ -9,8 +9,8 @@ body{
 /* Header */
 
 .header{
-    width: 100%;
-    margin: 0px;
+    width: 80%;
+    margin: auto;
     padding-top: 20px;
     text-align: center;
   
@@ -94,7 +94,7 @@ body{
 
 
 .main{ 
-    width: 50px;
+    width: 70%;
     margin: auto;
 }
 
@@ -103,8 +103,8 @@ body{
 /* START OF FOOTER */
 
 .footer{
-    width: 100%;
-    margin: 0px;
+    width: 85%;
+    margin: auto;
     padding-top: 20px;
     text-align: center;
 }
