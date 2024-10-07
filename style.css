@@ -73,7 +73,7 @@ body{
 
 }
 
-/* END OF HEADER */ 
+
 
 
 .header_hr{
@@ -83,3 +83,13 @@ body{
     background-color: black;
     border-radius: 10px;
 }
+
+.header_page {
+    color:white;
+}
+/* END OF HEADER */ 
+
+
+
+/* START OF FOOTER */
+.footer
