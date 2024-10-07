@@ -93,6 +93,13 @@ body{
 
 
 
+.main{ 
+    width: 50px;
+    margin: auto;
+}
+
+
+
 /* START OF FOOTER */
 
 .footer{
@@ -106,13 +113,13 @@ body{
 
 .footer_hr{
     border:none;
-    height: 10px;
+    height: 5px;
     margin: 25px 0px;
     background-color: black;
     border-radius: 10px;
 }
 
-.footer h4{
+.footer h4, p{
     color: white;
 }
 .footer a, a:visited{
