@@ -49,29 +49,29 @@ body{
     display: inline-block;
 }
 .header_Yu14{
-    text-align: left;
-    Width: 65%;
+    text-align: center;
+    Width: 40%;
 }
 
 .header_about{
     text-align: center;
-    width: 9%;
+    width: 14%;
     
 }
 
 .header_projects{
     text-align: center;
-    width: 9%;
+    width: 14%;
 }
 
 .header_contact{
     text-align: center;
-    width: 9%;
+    width: 14%;
 }
 
 .header_blog{
     text-align: center;
-    width: 5%;
+    width: 15%;
 
 }
 
@@ -79,11 +79,13 @@ body{
 
 
 .header_hr{
+    width:80%;
+    margin:auto;
     border:none;
-    height: 10px;
-    margin: 25px 0px;
+    height: 5px;
     background-color: black;
     border-radius: 10px;
+    padding: 0px, 20px;
 }
 
 .header_page {
