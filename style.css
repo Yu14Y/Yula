@@ -12,6 +12,7 @@ body{
     width: 80%;
     margin: auto;
     padding-top: 20px;
+    padding-bottom: 25px;
     text-align: center;
   
 }
@@ -85,12 +86,8 @@ body{
     height: 5px;
     background-color: black;
     border-radius: 10px;
-    padding: 0px, 20px;
 }
 
-.header_page {
-    color:white;
-}
 /* END OF HEADER */ 
 
 
