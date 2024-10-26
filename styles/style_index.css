@@ -1,0 +1,13 @@
+
+.main{ 
+    width: 70%;
+    margin: auto;
+}
+
+.main h1{
+    color: #fddeae;
+    text-align: center;
+    min-width:40vh;
+    font-family: monospace;
+}
+

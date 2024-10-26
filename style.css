@@ -1,88 +1,77 @@
-body{ 
+body { 
     background-color: #50497c;
     font-family: monospace;
-    padding: 10px
+    padding: 10px;
 }
 
-
-
 /* Header */
-
-.header{
+.header {
     width: 80%;
     margin: auto;
-    padding-top: 20px;
-    padding-bottom: 25px;
+    padding: 20px 0 25px; /* Combined padding for clarity */
     text-align: center;
-  
 }
 
 .header h1 {
     display: inline-block;
-    margin: 0px;
+    margin: 0;
 }
 
-.header a, h1, a:visited, h1:visited{
+.header a, 
+.header h1, 
+.header a:visited {
     font-family: monospace;
     color: #CCC5B9; 
     font-size: 30px;
     text-decoration: none;
-
 }
 
-.header a:hover, h1:hover{ 
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+.header a:hover { 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 35px;
     color: #7EC4CF;
 }
 
-.header a:active, h1:active{
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+.header a:active {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 35px;
     color: #E6C0E9;
 }
 
-
-
 /* Header text inline */ 
-
-.header{
-    display: inline-block;
+.header {
+    display: flex; /* Changed to flex for better alignment */
+    justify-content: space-around; /* Distributes space evenly */
 }
-.header_Yu14{
+
+.header_Yu14,
+.header_about,
+.header_projects,
+.header_contact,
+.header_blog {
     text-align: center;
-    Width: 40%;
 }
 
-.header_about{
-    text-align: center;
-    width: 14%;
-    
+.header_Yu14 {
+    width: 40%;
 }
 
-.header_projects{
-    text-align: center;
-    width: 14%;
+.header_about,
+.header_projects,
+.header_contact,
+.header_blog {
+    width: 15vh; /* Set to 10% for consistency */
 }
 
-.header_contact{
-    text-align: center;
-    width: 14%;
+.header_about {
+    width: 14vh; /* Kept as is */
 }
 
-.header_blog{
-    text-align: center;
-    width: 15%;
-
-}
-
-
-
-
-.header_hr{
-    width:80%;
-    margin:auto;
-    border:none;
+/* Horizontal Rule */
+.header_hr {
+    width: 80%;
+    margin: auto;
+    border: none;
     height: 5px;
     background-color: black;
     border-radius: 10px;
@@ -90,51 +79,39 @@ body{
 
 /* END OF HEADER */ 
 
-
-
-.main{ 
-    width: 70%;
-    margin: auto;
-}
-
-
-
 /* START OF FOOTER */
-
-.footer{
+.footer {
     width: 85%;
     margin: auto;
     padding-top: 20px;
     text-align: center;
 }
 
-
-
-.footer_hr{
-    border:none;
+.footer_hr {
+    border: none;
     height: 5px;
-    margin: 25px 0px;
+    margin: 25px 0;
     background-color: black;
     border-radius: 10px;
 }
 
-.footer h4, p{
+.footer h4, 
+.footer p {
     color: white;
 }
-.footer a, a:visited{
+
+.footer a, 
+.footer a:visited {
     font-family: monospace;
     color: #CCC5B9; 
     font-size: 20px;
     text-decoration: none;
-
 }
 
-.footer a:hover{ 
+.footer a:hover { 
     color: #7EC4CF;
 }
 
-.footer a:active{
+.footer a:active {
     color: #E6C0E9;
 }
-
-
