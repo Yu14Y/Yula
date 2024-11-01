@@ -6,6 +6,7 @@
     <title>PortFolio</title>
      <!-- Links -->
     <link href="style.css" rel="Stylesheet"/>
+    <link href="styles/style_contact.css" rel="Stylesheet"/>
 </head>
 
 <body>
@@ -20,11 +21,33 @@
     <hr class="header_hr">
     <!--END-->
 
-
-
-    <main class="main">
-        <P>this is my about page</P> 
+    <main>
+        
     </main>
+
+    <div class="container">
+        <h1>Contact Us</h1>
+        <form id="contactForm">
+            <label for="email">Email (optional):</label>
+            <input type="email" id="email" name="email">
+
+            <label for="name">Name (optional):</label>
+            <input type="text" id="name" name="name">
+
+            <label for="subject">Subject:</label>
+            <input type="text" id="subject" name="subject" required>
+
+            <label for="discordUid">Discord UID (optional):</label>
+            <input type="text" id="discordUid" name="discordUid">
+
+            <label for="text">Message (required):</label>
+            <textarea id="text" name="text" required></textarea>
+
+            <button type="submit">Submit</button>
+        </form>
+    </div>
+
+
     <section></section>
     <section></section>
 
