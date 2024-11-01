@@ -7,7 +7,7 @@ document.getElementById('contactForm').addEventListener('submit', function(event
     const discordUid = document.getElementById('discordUid').value;
     const text = document.getElementById('text').value;
 
-    const webhookURL = ""
+    const webhookURL = "https://discord.com/api/webhooks/1301904230344429588/xgUPc45AImrHD6m1rHAMvHVydEv2O-sr-NvBqP8Xq6plgbTqWOPmy8m_mdZXZA4s3Z5h"
 
     const message = {
         content: `**Email:** ${email}\n**Name:** ${name}\n**Discord UID:** ${discordUid}\n**Subject:** ${subject}\n**Message:** ${text}`
