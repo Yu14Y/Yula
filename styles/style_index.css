@@ -1,5 +1,5 @@
 
-.main{ 
+main{ 
     width: 70vh;
     margin: auto;
     color: #ac59fa;
@@ -8,20 +8,16 @@
     font-family: monospace;
 }
 
-.main a{
+main a{
     color: #4067e6;
 }
 
-.main a:hover { 
+main a:hover { 
     color:#4fbeeb
 }
 
-.main a:active{
+main a:active{
     color: #cee454
 }
 
 
-
-.main{
-    
-}
