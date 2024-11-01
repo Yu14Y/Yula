@@ -1,5 +1,5 @@
 body { 
-    background-color: #50497c;
+    background-color: #000000;
     font-family: monospace;
     padding: 10px;
 }
@@ -29,13 +29,13 @@ body {
 .header a:hover { 
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 35px;
-    color: #7EC4CF;
+    color: #fdaef6;
 }
 
 .header a:active {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 35px;
-    color: #E6C0E9;
+    color: #00ffea;
 }
 
 /* Header text inline */ 
@@ -73,7 +73,7 @@ body {
     margin: auto;
     border: none;
     height: 5px;
-    background-color: black;
+    background-color: #CCC5B9;
     border-radius: 10px;
 }
 
@@ -91,7 +91,7 @@ body {
     border: none;
     height: 5px;
     margin: 25px 0;
-    background-color: black;
+    background-color: #CCC5B9;
     border-radius: 10px;
 }
 
@@ -109,9 +109,9 @@ body {
 }
 
 .footer a:hover { 
-    color: #7EC4CF;
+    color: #fdaef6;
 }
 
 .footer a:active {
-    color: #E6C0E9;
+    color: #00ffea;
 }
