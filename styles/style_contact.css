@@ -1,11 +1,50 @@
 
 
 
+main{ 
+    width: 70vh;
+    margin: auto;
+    color: #ac59fa;
+    text-align: center;
+    min-width:40vh;
+    font-family: monospace;
+}
 
 
+/* Inline Images Stuff*/
+
+.logo_inline{
+    display: inline;;
+    margin:0px;
+    margin-top: 20px;
+}
+
+/* END OF INLINE */
 
 
+/* HYPER LINKS */
 
+main a{ 
+    color:#ac59fa;
+    text-decoration: none;
+}
+
+main a:hover{
+    color:#b735fd
+}
+
+
+/* END OF HYPER LINKS */
+
+.lines{
+    max-width: 50vh;
+    border: none;
+    height: 3px;
+    margin: 0 auto;
+    background-color: #CCC5B9;
+    padding: 1px;
+    border-radius: 10px;
+}
 
 /* START OF CONTACT FORM */
 .container {
@@ -20,12 +59,15 @@
 
 .container h1{
     text-align: center;
+    margin-bottom: 25px;
 }
+
+
 
 label {
     display: block;
     margin: 10px 0 5px;
-    
+    font-size: 18px;
 }
 
 input, textarea {
@@ -34,8 +76,9 @@ input, textarea {
     margin-bottom: 10px;
     border: 1px solid #cf7dc4;
     border-radius: 4px;
-    background-color: #6860cf;
+    background-color: #554eb9;
     color:#ffffff;
+    font-weight: bold;
     
 }
 
