@@ -1,6 +1,6 @@
 
 
-
+/* Section 1 CSS */
 main{ 
     width: 70vh;
     margin: auto;
@@ -14,12 +14,22 @@ main{
 /* Inline Images Stuff*/
 
 .logo_inline{
-    display: inline;;
+    display: inline;
     margin:0px;
     margin-top: 20px;
+    
+}
+.logo_inline img{
+    object-fit: cover;
+    border-radius: 50%;
+    max-width: 250px;
+    max-height: 350px;
 }
 
+
+
 /* END OF INLINE */
+
 
 
 /* HYPER LINKS */
