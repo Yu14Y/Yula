@@ -45,6 +45,7 @@ main a:hover{
 
 
 /* END OF HYPER LINKS */
+/* LINES */
 
 .lines{
     max-width: 50vh;
@@ -55,6 +56,20 @@ main a:hover{
     padding: 1px;
     border-radius: 10px;
 }
+
+.Lines_Div{
+    max-width: 300px;
+    border: none;
+    height: 1px;
+    margin: 1 auto;
+    background-color: #CCC5B9;
+    padding: 1px;
+    border-radius: 20px;
+
+}
+
+/* END OF LINES */
+
 
 /* START OF CONTACT FORM */
 .container {
