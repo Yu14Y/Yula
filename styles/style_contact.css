@@ -108,7 +108,7 @@ input, textarea {
 }
 
 button {
-    width:325px;
+    width:110%;
     padding: 10px;
     background-color: hsl(273, 64%, 44%);
     color: white;

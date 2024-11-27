@@ -5,20 +5,37 @@
     <title>Survey Form</title>
 </head>
 <body>
-    <main class="main_sec">
-        <h1 id="title"> Yu14 Feedback Form</h1>
-        <p id="description">Yu14 Laptop Services feedback</p>
-        <form id="survey-form">
-            <div class="boxes"> 
-                <label id="name">Name</label>
-                <input type="text" id="name">
-                
-
-            
-
+    <h1 id="title"> Yu14 Feedback Form</h1>
+    <p id="description">Yu14 Laptop Services feedback</p>
+    <form id="survey-form">
+        <div class="boxes"> 
+            <div class="isolation">
+                <label id="name" for="name">Name</label>
+                <input type="text" id="name" placeholder="Yula Ywen" required>
             </div>
-        </form>
-    </main> 
+            <!-- Separate -->
+                
+                <div class="isolation">
+                <label id="name">Email</label>
+                <input type="email" id="email" placeholder="yulay@tuta.io" required>
+            </div>
+            <!-- Separate-->
+            <div class="isolation">
+                <label id="name">Age</label>
+                <input type="number" id="number" placeholder="13 - 18" min="13" max="18" required>
+            </div>
+            <!-- Separate -->
+            <div class="isolation ">
+                <label id="name">How were the services?</label>
+                <input type="radio">Great
+                <input type="radio">Is Okay
+                <input type="radio"> Bad 
+                
+            </div>
+
+        </div>
+    </form>
+
 
 </body>
 </html>

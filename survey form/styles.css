@@ -3,13 +3,22 @@ body{
     background-color: #291c38;
 }
 
-h1{
-    color:#ffffff
+.main_sec{
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.main_sec h1{
+    color:#ffffff;
+    text-align: center;
 }
 
-label{
-    color:#ffffff
+.main_sec p{
+    color:#ffffff;
+    text-align: center;
 }
+
+
 
 
 .boxes{
@@ -18,25 +27,38 @@ label{
     min-width: 50vh;
     max-width: 70vh;
     border: solid;
-    border-color: #ffffff;
-    border-radius: 1px;
+    border-color: rgba(0, 247, 255, 0.342);
+    background-color: rgba(10, 255, 243, 0.1) ;
+    border-radius: 90px;
     border-width: 1px;
-    padding: 10px 50px;
     padding-right: 0;
-
+    padding: 5px;
 }
 
 
 .boxes input{
-    min-width: 50vh;
-    max-width: 70vh;
+    min-width: 85%;
+    max-width: 85%;
     width: auto;
     margin-left: auto;
     margin-right: auto;
     display: block;
+    padding: 5px;
+    border-radius: 50px;
+    font-size: 15px ;
 }
 
-.boxes p{
+.boxes label{
+    color:#ffffff;
     padding-left: 50px;
+    font-size: 25px;
+    
+}
+
+
+
+.isolation{
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
