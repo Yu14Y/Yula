@@ -2,7 +2,11 @@ body {
     background-color: #000000FF;
     font-family: monospace;
     padding: 10px;
+    color: #ac59fa;
 }
+
+
+
 
 /* Header */
 .header {

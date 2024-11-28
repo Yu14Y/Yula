@@ -1,0 +1,23 @@
+
+main{ 
+    width: 70vh;
+    margin: auto;
+    color: #ac59fa;
+    text-align: center;
+    min-width:40vh;
+    font-family: monospace;
+}
+
+main a{
+    color: #4067e6;
+}
+
+main a:hover { 
+    color:#4fbeeb
+}
+
+main a:active{
+    color: #cee454
+}
+
+
