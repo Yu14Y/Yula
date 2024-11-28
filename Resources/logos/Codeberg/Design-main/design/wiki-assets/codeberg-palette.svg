@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="186.3"
+   height="101.3"
+   viewBox="0 0 49.291878 26.802291"
+   version="1.1"
+   id="svg1350"
+   inkscape:version="1.2-beta (1b65182, 2022-04-05)"
+   sodipodi:docname="codeberg-palette.svg"
+   inkscape:export-filename="palette.png"
+   inkscape:export-xdpi="541.53845"
+   inkscape:export-ydpi="541.53845"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs1344">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1036">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0"
+         id="stop1032" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="1"
+         id="stop1034" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3165">
+      <stop
+         style="stop-color:#73ccc6;stop-opacity:1"
+         offset="0"
+         id="stop3161" />
+      <stop
+         style="stop-color:#144b49;stop-opacity:1"
+         offset="1"
+         id="stop3163" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3155">
+      <stop
+         style="stop-color:#c2faff;stop-opacity:1"
+         offset="0"
+         id="stop3151" />
+      <stop
+         style="stop-color:#97e1e7;stop-opacity:1"
+         offset="1"
+         id="stop3153" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3149">
+      <stop
+         style="stop-color:#fff8c8;stop-opacity:1"
+         offset="0"
+         id="stop3145" />
+      <stop
+         style="stop-color:#ffea69;stop-opacity:1"
+         offset="1"
+         id="stop3147" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3143">
+      <stop
+         style="stop-color:#e79125;stop-opacity:1"
+         offset="0"
+         id="stop3139" />
+      <stop
+         style="stop-color:#a7681a;stop-opacity:1"
+         offset="1"
+         id="stop3141" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3105">
+      <stop
+         style="stop-color:#b5ddff;stop-opacity:1"
+         offset="0"
+         id="stop3101" />
+      <stop
+         style="stop-color:#44adff;stop-opacity:1"
+         offset="1"
+         id="stop3103" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3093">
+      <stop
+         style="stop-color:#2185d0;stop-opacity:1"
+         offset="0"
+         id="stop3089" />
+      <stop
+         style="stop-color:#0b3049;stop-opacity:1"
+         offset="1"
+         id="stop3091" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3105"
+       id="linearGradient3099"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0693605,0,0,0.67720913,4.4163833,18.014585)"
+       x1="79.375"
+       y1="84.666664"
+       x2="79.375"
+       y2="92.604164" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3155"
+       id="linearGradient3109"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0693605,0,0,0.67720913,20.291385,18.014585)"
+       x1="79.375"
+       y1="84.666664"
+       x2="79.375"
+       y2="92.604164" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3149"
+       id="linearGradient3113"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0693605,0,0,0.67720913,30.874716,18.014585)"
+       x1="79.375"
+       y1="84.666664"
+       x2="79.375"
+       y2="92.604164" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3143"
+       id="linearGradient3109-4"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0693605,0,0,0.67720913,25.583051,28.597919)"
+       x1="79.375"
+       y1="84.666664"
+       x2="79.375"
+       y2="92.604164" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3165"
+       id="linearGradient3159"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.1387228,0,0,0.67720913,-70.542374,28.597919)"
+       x1="79.375"
+       y1="84.666664"
+       x2="79.375"
+       y2="92.604164" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3093"
+       id="linearGradient3171"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.1387228,0,0,0.67720913,-86.417373,28.597919)"
+       x1="79.375"
+       y1="84.666664"
+       x2="79.375"
+       y2="92.604164" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1036"
+       id="linearGradient1030"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0693605,0,0,0.67720913,32.198859,23.417006)"
+       x1="79.375"
+       y1="84.666664"
+       x2="79.375"
+       y2="92.604164" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="0.31372549"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="130.63798"
+     inkscape:cy="96.254911"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g6452"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     inkscape:window-width="1531"
+     inkscape:window-height="873"
+     inkscape:window-x="69"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:showpageshadow="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-global="true"
+     inkscape:snap-to-guides="false"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     inkscape:object-nodes="false"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1979"
+       spacingx="2.6458334"
+       spacingy="2.6458334"
+       empspacing="4"
+       originx="-71.265534"
+       originy="-69.942619"
+       dotted="true"
+       enabled="false" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid941"
+       spacingx="1.3229167"
+       spacingy="1.3229167"
+       empspacing="1"
+       originx="-50.098861"
+       originy="1.4948932"
+       enabled="true" />
+    <sodipodi:guide
+       position="-3.9621349,21.239428"
+       orientation="0.70710678,-0.70710678"
+       id="guide1989" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1347">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-71.265521,-69.942607)"
+     style="display:inline">
+    <path
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.343958;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 74.08333,93.927084 v -15.875 h 10.583333 v -5.291667 h 5.291667 v 5.291667 h 10.58333 v -5.291667 h 5.29167 v 5.291667 h 5.29167 v -5.291667 h 6.61458 v 21.166667 h -1.32292 V 88.635417 H 111.125 v 5.291667 h -5.29167 v -5.291667 h -5.29167 v 5.291667 H 89.95833 v -5.291667 h -5.291667 v 5.291667 z"
+       id="path3217" />
+    <g
+       id="g6452">
+      <g
+         id="g6259"
+         style="display:inline">
+        <rect
+           style="fill:#0b3049;fill-opacity:1;stroke-width:0.0205628"
+           id="rect1306"
+           width="10.583338"
+           height="5.2916689"
+           x="74.083344"
+           y="88.635422"
+           inkscape:export-filename="/home/robert/Desktop/codeberg-palette.png"
+           inkscape:export-xdpi="533"
+           inkscape:export-ydpi="533" />
+        <rect
+           style="fill:#2185d0;fill-opacity:1;stroke-width:0.0291461"
+           id="rect1184"
+           width="10.583338"
+           height="10.631393"
+           x="74.083351"
+           y="78.004028"
+           inkscape:export-filename="/home/robert/Desktop/codeberg-palette.png"
+           inkscape:export-xdpi="533"
+           inkscape:export-ydpi="533" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:0.529167px;line-height:1.25;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.111714"
+           x="75.525894"
+           y="78.735626"
+           id="text921-5"
+           inkscape:export-filename="/home/robert/Desktop/codeberg-palette.png"
+           inkscape:export-xdpi="533"
+           inkscape:export-ydpi="533"><tspan
+             sodipodi:role="line"
+             x="75.525894"
+             y="78.735626"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:0.529167px;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.111714"
+             id="tspan945-9"
+             dy="0">#2185D0</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:0.529167px;line-height:1.25;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.111714"
+           x="75.579117"
+           y="93.552307"
+           id="text961-2"
+           inkscape:export-filename="/home/robert/Desktop/codeberg-palette.png"
+           inkscape:export-xdpi="533"
+           inkscape:export-ydpi="533"><tspan
+             sodipodi:role="line"
+             x="75.579117"
+             y="93.552307"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:0.529167px;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.111714"
+             id="tspan959-2">#0B3049</tspan></text>
+        <rect
+           style="opacity:1;fill:url(#linearGradient3171);fill-opacity:1;stroke:none;stroke-width:0.10327;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.0952073"
+           id="rect3077"
+           width="2.6458333"
+           height="5.2916665"
+           x="82.020836"
+           y="85.989586"
+           inkscape:export-filename="/home/robert/Desktop/codeberg-palette.png"
+           inkscape:export-xdpi="533"
+           inkscape:export-ydpi="533" />
+      </g>
+      <g
+         id="g6244"
+         style="display:inline">
+        <rect
+           style="fill:#44adff;fill-opacity:1;stroke-width:0.0205628"
+           id="rect1186"
+           width="5.2916689"
+           height="10.583338"
+           x="84.666664"
+           y="78.052078"
+           inkscape:export-filename="/home/robert/Desktop/codeberg-palette.png"
+           inkscape:export-xdpi="533"
+           inkscape:export-ydpi="533" />
+        <rect
+           style="fill:#b5ddff;fill-opacity:1;stroke-width:0.0145401"
+           id="rect1330"
+           width="5.2916684"
+           height="5.2916627"
+           x="84.666664"
+           y="72.760429"
+           inkscape:export-filename="/home/robert/Desktop/codeberg-palette.png"
+           inkscape:export-xdpi="533"
+           inkscape:export-ydpi="533" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:0.529167px;line-height:1.25;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.0404912"
+           x="86.146416"
+           y="73.43605"
+           id="text23023-2"
+           inkscape:export-filename="/home/robert/Desktop/codeberg-palette.png"
+           inkscape:export-xdpi="533"
+           inkscape:export-ydpi="533"><tspan
+             sodipodi:role="line"
+             x="86.146416"
+             y="73.43605"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:0.529167px;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.0404912"
+             id="tspan943-6">#B5DDFF</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:0.529167px;line-height:1.25;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.0404912"
+           x="86.120064"
+           y="78.732979"
+           id="text967-8"
+           inkscape:export-filename="/home/robert/Desktop/codeberg-palette.png"
+           inkscape:export-xdpi="533"
+           inkscape:export-ydpi="533"><tspan
+             sodipodi:role="line"
+             x="86.120064"
+             y="78.732979"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:0.529167px;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.0404912"
+             id="tspan965-9">#44ADFF</tspan></text>
+        <rect
+           style="opacity:1;fill:url(#linearGradient3099);fill-opacity:1;stroke:none;stroke-width:0.0730229;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.0952073"
+           id="rect3097"
+           width="1.3229156"
+           height="5.2916665"
+           x="88.635414"
+           y="75.40625"
+           inkscape:export-filename="/home/robert/Desktop/codeberg-palette.png"
+           inkscape:export-xdpi="533"
+           inkscape:export-ydpi="533" />
+      </g>
+      <g
+         id="g6229"
+         style="display:inline">
+        <rect
+           style="fill:#73ccc6;fill-opacity:1;stroke-width:0.0290802"
+           id="rect1154"
+           width="10.583338"
+           height="10.583338"
+           x="89.958336"
+           y="78.052078"
+           inkscape:export-filename="/home/robert/Desktop/codeberg-palette.png"
+           inkscape:export-xdpi="533"
+           inkscape:export-ydpi="533" />
+        <rect
+           style="fill:#144b49;fill-opacity:1;stroke-width:0.0205628"
+           id="rect1179"
+           width="10.583338"
+           height="5.2916689"
+           x="89.958336"
+           y="88.635414"
+           inkscape:export-filename="/home/robert/Desktop/codeberg-palette.png"
+           inkscape:export-xdpi="533"
+           inkscape:export-ydpi="533" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:0.529167px;line-height:1.25;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.111714"
+           x="91.478912"
+           y="78.735603"
+           id="text905-0"
+           inkscape:export-filename="/home/robert/Desktop/codeberg-palette.png"
+           inkscape:export-xdpi="533"
+           inkscape:export-ydpi="533"><tspan
+             sodipodi:role="line"
+             id="tspan903-2"
+             x="91.478912"
+             y="78.735603"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:0.529167px;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.111714"
+             dy="0">#73CCC6</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:0.529167px;line-height:1.25;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.111714"
+           x="91.39933"
+           y="93.552284"
+           id="text913-3"
+           inkscape:export-filename="/home/robert/Desktop/codeberg-palette.png"
+           inkscape:export-xdpi="533"
+           inkscape:export-ydpi="533"><tspan
+             sodipodi:role="line"
+             id="tspan911-7"
+             x="91.39933"
+             y="93.552284"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:0.529167px;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.111714">#144B49</tspan></text>
+        <rect
+           style="opacity:1;fill:url(#linearGradient3159);fill-opacity:1;stroke:none;stroke-width:0.10327;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.0952073"
+           id="rect3157"
+           width="2.6458333"
+           height="5.2916665"
+           x="97.895836"
+           y="85.989586"
+           inkscape:export-filename="/home/robert/Desktop/codeberg-palette.png"
+           inkscape:export-xdpi="533"
+           inkscape:export-ydpi="533" />
+      </g>
+      <g
+         id="g6214"
+         style="display:inline">
+        <rect
+           style="fill:#97e1e7;fill-opacity:1;stroke-width:0.0205628"
+           id="rect1152"
+           width="5.2916689"
+           height="10.583338"
+           x="100.54167"
+           y="-88.635414"
+           transform="scale(1,-1)"
+           inkscape:export-filename="/home/robert/Desktop/codeberg-palette.png"
+           inkscape:export-xdpi="533"
+           inkscape:export-ydpi="533" />
+        <rect
+           style="fill:#c2faff;fill-opacity:1;stroke-width:0.0145401"
+           id="rect1332"
+           width="5.2916689"
+           height="5.2916689"
+           x="100.54167"
+           y="-78.052055"
+           transform="scale(1,-1)"
+           inkscape:export-filename="/home/robert/Desktop/codeberg-palette.png"
+           inkscape:export-xdpi="533"
+           inkscape:export-ydpi="533" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:0.529167px;line-height:1.25;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.0404912"
+           x="101.9005"
+           y="78.73555"
+           id="text24977-1"
+           inkscape:export-filename="/home/robert/Desktop/codeberg-palette.png"
+           inkscape:export-xdpi="533"
+           inkscape:export-ydpi="533"><tspan
+             sodipodi:role="line"
+             id="tspan24975-8"
+             x="101.9005"
+             y="78.73555"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:0.529167px;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.0404912">#97E1E7</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:0.529167px;line-height:1.25;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.0404912"
+           x="101.96355"
+           y="73.443871"
+           id="text24981-79"
+           inkscape:export-filename="/home/robert/Desktop/codeberg-palette.png"
+           inkscape:export-xdpi="533"
+           inkscape:export-ydpi="533"><tspan
+             sodipodi:role="line"
+             id="tspan24979-2"
+             x="101.96355"
+             y="73.443871"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:0.529167px;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.0404912">#C2FAFF</tspan></text>
+        <rect
+           style="opacity:1;fill:url(#linearGradient3109);fill-opacity:1;stroke:none;stroke-width:0.0730229;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.0952073"
+           id="rect3107"
+           width="1.3229156"
+           height="5.2916665"
+           x="104.51042"
+           y="75.40625"
+           inkscape:export-filename="/home/robert/Desktop/codeberg-palette.png"
+           inkscape:export-xdpi="533"
+           inkscape:export-ydpi="533" />
+      </g>
+      <g
+         id="g6274"
+         style="display:inline">
+        <rect
+           style="fill:#e79125;fill-opacity:1;stroke-width:0.0205628"
+           id="rect1302"
+           width="5.2916675"
+           height="10.583338"
+           x="105.83334"
+           y="-88.635422"
+           transform="scale(1,-1)"
+           inkscape:export-filename="/home/robert/Desktop/codeberg-palette.png"
+           inkscape:export-xdpi="533"
+           inkscape:export-ydpi="533" />
+        <rect
+           style="fill:#a7681a;fill-opacity:1;stroke-width:0.0145401"
+           id="rect1340"
+           width="5.2916641"
+           height="5.2916689"
+           x="105.83334"
+           y="-93.927071"
+           transform="scale(1,-1)"
+           inkscape:export-filename="/home/robert/Desktop/codeberg-palette.png"
+           inkscape:export-xdpi="533"
+           inkscape:export-ydpi="533" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:0.529167px;line-height:1.25;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.0404912"
+           x="107.21439"
+           y="78.735603"
+           id="text24981-7-7"
+           inkscape:export-filename="/home/robert/Desktop/codeberg-palette.png"
+           inkscape:export-xdpi="533"
+           inkscape:export-ydpi="533"><tspan
+             sodipodi:role="line"
+             id="tspan24979-5-3"
+             x="107.21439"
+             y="78.735603"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:0.529167px;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.0404912">#E79125</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:0.529167px;line-height:1.25;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.0404912"
+           x="107.29393"
+           y="93.552254"
+           id="text1015-2"
+           inkscape:export-filename="/home/robert/Desktop/codeberg-palette.png"
+           inkscape:export-xdpi="533"
+           inkscape:export-ydpi="533"><tspan
+             sodipodi:role="line"
+             id="tspan1013-9"
+             x="107.29393"
+             y="93.552254"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:0.529167px;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.0404912">#A7681A</tspan></text>
+        <rect
+           style="display:inline;opacity:1;fill:url(#linearGradient3109-4);fill-opacity:1;stroke:none;stroke-width:0.0730229;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.0952073"
+           id="rect3107-5"
+           width="1.3229156"
+           height="5.2916665"
+           x="109.80209"
+           y="85.989586"
+           inkscape:export-filename="/home/robert/Desktop/codeberg-palette.png"
+           inkscape:export-xdpi="533"
+           inkscape:export-ydpi="533" />
+      </g>
+      <g
+         id="g6289"
+         style="display:inline">
+        <rect
+           style="fill:#ffea69;fill-opacity:1;stroke-width:0.0205628"
+           id="rect1310"
+           width="5.2916689"
+           height="10.583338"
+           x="111.125"
+           y="-88.635414"
+           transform="scale(1,-1)"
+           inkscape:export-filename="/home/robert/Desktop/codeberg-palette.png"
+           inkscape:export-xdpi="533"
+           inkscape:export-ydpi="533" />
+        <rect
+           style="fill:#fff8c8;fill-opacity:1;stroke-width:0.0145401"
+           id="rect1314"
+           width="5.2916689"
+           height="5.2916689"
+           x="111.125"
+           y="-78.052139"
+           transform="scale(1,-1)"
+           inkscape:export-filename="/home/robert/Desktop/codeberg-palette.png"
+           inkscape:export-xdpi="533"
+           inkscape:export-ydpi="533" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:0.529167px;line-height:1.25;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.0404912"
+           x="112.5557"
+           y="73.443924"
+           id="text24981-7-3-6"
+           inkscape:export-filename="/home/robert/Desktop/codeberg-palette.png"
+           inkscape:export-xdpi="533"
+           inkscape:export-ydpi="533"><tspan
+             sodipodi:role="line"
+             id="tspan24979-5-5-1"
+             x="112.5557"
+             y="73.443924"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:0.529167px;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.0404912">#FFF8C8</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:0.529167px;line-height:1.25;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.0404912"
+           x="112.56551"
+           y="78.735603"
+           id="text24981-7-6-3"
+           inkscape:export-filename="/home/robert/Desktop/codeberg-palette.png"
+           inkscape:export-xdpi="533"
+           inkscape:export-ydpi="533"><tspan
+             sodipodi:role="line"
+             id="tspan24979-5-2-1"
+             x="112.56551"
+             y="78.735603"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:0.529167px;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.0404912">#FFEA69</tspan></text>
+        <rect
+           style="opacity:1;fill:url(#linearGradient3113);fill-opacity:1;stroke:none;stroke-width:0.0730229;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.0952073"
+           id="rect3111"
+           width="1.3229156"
+           height="5.2916665"
+           x="115.09375"
+           y="75.40625"
+           inkscape:export-filename="/home/robert/Desktop/codeberg-palette.png"
+           inkscape:export-xdpi="533"
+           inkscape:export-ydpi="533" />
+      </g>
+      <g
+         id="g6385"
+         style="display:inline">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke-width:0.0614107;paint-order:stroke markers fill;stop-color:#000000"
+           id="rect466"
+           width="1.3229246"
+           height="10.583341"
+           x="116.41666"
+           y="72.760414" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke-width:0.079375;stroke-opacity:0.0952073"
+           id="rect1009"
+           width="1.3229166"
+           height="10.583333"
+           x="116.41668"
+           y="83.34375"
+           inkscape:export-filename="/home/robert/Desktop/codeberg-palette.png"
+           inkscape:export-xdpi="533"
+           inkscape:export-ydpi="533" />
+        <rect
+           style="display:inline;opacity:1;fill:url(#linearGradient1030);fill-opacity:1;stroke:none;stroke-width:0.0730229;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.0952073"
+           id="rect1028"
+           width="1.3229156"
+           height="5.2916665"
+           x="116.41789"
+           y="80.80867"
+           inkscape:export-filename="/home/robert/Desktop/codeberg-palette.png"
+           inkscape:export-xdpi="533"
+           inkscape:export-ydpi="533" />
+        <path
+           style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 116.41667,72.760417 V 93.927083"
+           id="path1876-3"
+           inkscape:export-filename="/home/robert/Desktop/codeberg-palette.png"
+           inkscape:export-xdpi="533"
+           inkscape:export-ydpi="533" />
+        <path
+           style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 117.73958,72.760417 V 93.927083"
+           id="path1026"
+           inkscape:export-filename="/home/robert/Desktop/codeberg-palette.png"
+           inkscape:export-xdpi="533"
+           inkscape:export-ydpi="533" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:0.529167px;line-height:1.25;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.0404912"
+           x="-92.335228"
+           y="117.25575"
+           id="text1044"
+           inkscape:export-filename="/home/robert/Desktop/codeberg-palette.png"
+           inkscape:export-xdpi="533"
+           inkscape:export-ydpi="533"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             id="tspan1042"
+             x="-92.335228"
+             y="117.25575"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:0.529167px;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.0404912">#000000</tspan></text>
+        <rect
+           style="mix-blend-mode:darken;fill:#ffffff;fill-opacity:1;stroke:#e3e3e3;stroke-width:0.0986684;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1007"
+           width="0.96145391"
+           height="10.595419"
+           x="116.59863"
+           y="72.809753"
+           inkscape:export-filename="/home/robert/Desktop/codeberg-palette.png"
+           inkscape:export-xdpi="533"
+           inkscape:export-ydpi="533" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:0.529167px;line-height:1.25;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.0404912"
+           x="-74.235359"
+           y="117.27055"
+           id="text1040"
+           inkscape:export-filename="/home/robert/Desktop/codeberg-palette.png"
+           inkscape:export-xdpi="533"
+           inkscape:export-ydpi="533"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             id="tspan1038"
+             x="-74.235359"
+             y="117.27055"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:0.529167px;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.0404912">#FFFFFF</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g6466"
+       style="display:inline">
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 100.54167,72.760416 V 93.927083"
+         id="path1872"
+         inkscape:export-filename="/home/robert/Desktop/codeberg-palette.png"
+         inkscape:export-xdpi="533"
+         inkscape:export-ydpi="533" />
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 105.83333,72.760416 V 93.927083"
+         id="path1874"
+         inkscape:export-filename="/home/robert/Desktop/codeberg-palette.png"
+         inkscape:export-xdpi="533"
+         inkscape:export-ydpi="533" />
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 111.125,72.760417 V 93.927083"
+         id="path1876"
+         inkscape:export-filename="/home/robert/Desktop/codeberg-palette.png"
+         inkscape:export-xdpi="533"
+         inkscape:export-ydpi="533" />
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 84.666674,72.760421 V 93.927088"
+         id="path1870"
+         inkscape:export-filename="/home/robert/Desktop/codeberg-palette.png"
+         inkscape:export-xdpi="533"
+         inkscape:export-ydpi="533" />
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 89.958333,72.760429 V 93.927096"
+         id="path1878"
+         inkscape:export-filename="/home/robert/Desktop/codeberg-palette.png"
+         inkscape:export-xdpi="533"
+         inkscape:export-ydpi="533" />
+    </g>
+  </g>
+</svg>
