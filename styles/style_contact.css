@@ -13,19 +13,33 @@ main{
 
 /* Inline Images Stuff*/
 
-.logo_inline{
-    display: inline;
-    margin:0px;
-    margin-top: 20px;
+
+.inline_socials{
+    object-fit: cover;
+    padding-top:0px;
+    padding-bottom: 0px;
+    
     
 }
-.logo_inline img{
-    object-fit: cover;
-    border-radius: 50%;
-    max-width: 250px;
-    max-height: 350px;
+
+
+.image{
+    text-align: left;
+    margin-top: 30px;
 }
 
+.text_h2 h2{
+     width: 10%;
+     margin-left: 93px;
+}
+.github{
+    width: 15%;
+    margin: auto auto;
+}
+
+.social_inline{
+    display: inline;
+}
 
 
 /* END OF INLINE */

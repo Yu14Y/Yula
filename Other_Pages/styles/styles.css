@@ -1,0 +1,25 @@
+
+body{ 
+    width: 70vh;
+    margin: auto;
+    color: #ac59fa;
+    text-align: center;
+    min-width:40vh;
+    font-family: monospace;
+    background-color: black;
+}
+
+body a{
+    color: #4067e6;
+}
+
+body a:hover { 
+    color:#4fbeeb
+}
+
+body a:active{
+    color: #cee454
+}
+
+
+
