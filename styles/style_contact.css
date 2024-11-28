@@ -22,7 +22,6 @@ main{
     
 }
 
-
 .image{
     text-align: left;
     margin-top: 30px;
@@ -45,6 +44,15 @@ main{
 
 /* END OF INLINE */
 
+.colored a{
+    color:#CCC5B9;
+}
+.colored a:hover{ 
+    color: #e4ce0a;
+}
+.colored a:active{
+    color:red;
+}
 
 
 /* HYPER LINKS */
