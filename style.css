@@ -9,20 +9,21 @@ body {
 
 
 /* Header */
+
 .header {
     width: 80%;
     margin: auto;
-    padding: 20px 0 25px; /* Combined padding for clarity */
+    padding: 20px 0 25px; 
     text-align: center;
+    height: 45px;
 }
 
 .header h1 {
     display: inline-block;
-    margin: 0;
+    margin-bottom: 7px;
 }
 
 .header a, 
-.header h1, 
 .header a:visited {
     font-family: monospace;
     color: #CCC5B9; 
@@ -31,21 +32,18 @@ body {
 }
 
 .header a:hover { 
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 35px;
-    color: #fdaef6;
+
+    color: #aa53fb;
 }
 
 .header a:active {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 35px;
-    color: #00ffea;
+    color: #d6f85c;
 }
 
 /* Header text inline */ 
 .header {
-    display: flex; /* Changed to flex for better alignment */
-    justify-content: space-around; /* Distributes space evenly */
+    display: flex;
+    justify-content: space-around; 
 }
 
 .header_Yu14,
@@ -57,19 +55,17 @@ body {
 }
 
 .header_Yu14 {
-    width: 40%;
+    width: 60vh;
 }
 
 .header_about,
 .header_projects,
 .header_contact,
 .header_blog {
-    width: 15vh; /* Set to 10% for consistency */
+    width: 10vh; /* Set to 10% for consistency */
 }
 
-.header_about {
-    width: 14vh; /* Kept as is */
-}
+
 
 /* Horizontal Rule */
 .header_hr {
