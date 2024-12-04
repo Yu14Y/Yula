@@ -3,10 +3,16 @@
 
 This Repo will store Yu14 Website, This repo is licensed under GPL-3.0 LIcense. 
 
-<html>
-<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=Z2hwX09nZ2V4bWVtcHVDSXJQZnJPd3lvb1R6UkhVcnFhbDJKcjNzNQ==#Yu14Y/Yula&Date" frameBorder="0">
-</iframe>
-</html>
+## Star History
+
+<a href="https://star-history.com/#Yu14Y/Yula&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Yu14Y/Yula&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Yu14Y/Yula&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Yu14Y/Yula&type=Date" />
+ </picture>
+</a>
+
 
 # Contributing to this Repo 
 Free to contribute :) 
