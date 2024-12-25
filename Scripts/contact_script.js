@@ -10,7 +10,7 @@ document.getElementById('contactForm').addEventListener('submit', function(event
     const webhookURL = "https://discord.com/api/webhooks/1321447070778785814/81CemwOzvooDkhvJChaoxS5KVPothH3ur8hYgRaxK4ZFFqZiTniuQXAu_gxo3bl92eds"
 
     const message = {
-        content: `**Email:** ${email}\n**Name:** ${name}\n**Discord UID:** ${discordUid}\n**Subject:** ${subject}\n**Message:** ${text}`
+        content: `**Email:** ${email}\n**Name:** ${name}\n**Discord UID:** ${discordUid}\n**Subject:** ${subject}\n**Message:** ${text} \n ========`
     };
 
     fetch(webhookURL, {
@@ -23,7 +23,7 @@ document.getElementById('contactForm').addEventListener('submit', function(event
     .then(response => {
         if (response.ok) {
             alert('Message sent successfully!');
-            document.getElementById('contactForm').reset(); // Reset the form
+            document.getElementById('contactForm').reset(); 
         } else {
             alert('Error sending message.');
         }
