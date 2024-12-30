@@ -2,7 +2,7 @@
 # The License will also be changed.  
 The reason i will not update for a month is that i am currently working on other stuff and i don't really want to give 100% of my time to this and since i am learning a new framework, i think it'll be better to just forget this and migrate to the website with astro framework later on.
 
-
+Also i realized many many many security issue wiht this stuff i made. 
 
 
 # Yu14 Website
